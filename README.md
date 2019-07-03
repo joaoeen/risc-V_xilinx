@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 System-On-Chip template based on synthesizable processor compliant with the RISC-V architecture.
 =====================
 
@@ -492,3 +493,7 @@ set of peripheries. To get this version use:
 ## Doxygen project documentation
 
 [http://sergeykhbr.github.io/riscv_vhdl/](http://sergeykhbr.github.io/riscv_vhdl/)
+=======
+# risc-V_xilinx
+Repositório para fazer o port do RISC V para o xilinx. Ainda não decidido se será Kintex ou virtex. 
+>>>>>>> 969602bd95e3b1c596d2ddf574225031720ad582
